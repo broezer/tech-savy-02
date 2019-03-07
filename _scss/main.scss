@@ -10,4 +10,10 @@ h1{
   text-align:center;
   font-size:3vw;
   margin-top:5vh;
+  opacity:1;
+  transition: opacity 1000ms ease-in;
+  &:hover{
+    opacity:0.2;
+    cursor: pointer;
+  }
 }

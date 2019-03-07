@@ -8,6 +8,7 @@ h1 {
   font-size: 3vw;
   margin-top: 5vh;
   opacity: 1;
+  -webkit-transition: opacity 1000ms ease-in;
   transition: opacity 1000ms ease-in; }
   h1:hover {
     opacity: 0.2;

@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
     "gulp-sass": "^4.0.2"
   },
   "scripts": {
